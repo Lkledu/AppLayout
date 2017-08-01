@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppLayout</string>
+
+    <string name="button">Button</string>
+    <string name="edittext">EditText</string>
+    <string name="textview">TextView</string>
+    <string name="radio_button">Radio Button</string>
+    <string name="check_box">Check Box</string>
+
+</resources>
